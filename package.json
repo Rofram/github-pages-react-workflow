@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "homepage": "https://rofram.github.io/github-pages-teste",
+    "homepage": "https://Rofram.github.io/github-pages-teste",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
